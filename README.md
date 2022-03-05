@@ -14,6 +14,7 @@
 📸Also photography is my hobby.
 
 ⚙Can use **Linux OS**, even did some automatisation using **Bash** 😍.
+⚙Created some projects on **RaspberryPI**.
 <details><summary>Some programming languages that i used</summary>
 <p>
   
