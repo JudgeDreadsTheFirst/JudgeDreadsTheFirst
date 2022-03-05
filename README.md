@@ -1,7 +1,7 @@
 
 ### Hi, my name is Gleb! 
 ---
-#### Currently i'm studying design of microwave devices at National research university of electronic technology(Miet).
+#### Currently i'm studying design of microwave devices at National research university of electronic technology(MIET).
 
 🖥Right now i'm interested in learning **Rust** and developing my knowledge of **C++**.
 
