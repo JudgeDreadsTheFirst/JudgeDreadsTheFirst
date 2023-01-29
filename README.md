@@ -1,7 +1,7 @@
 
 ### Hi, my name is Gleb! 
 ---
-#### Currently i'm studying design of microwave devices at National research university of electronic technology(MIET).
+#### Currently i'm studying computer science at National research university of electronic technology(MIET).
 
 🖥Right now i'm interested in learning **Rust** and developing my knowledge of **C++**.
 
@@ -9,11 +9,11 @@
 
 🔭Interested in astronomy, dreaming about creating my own radiotelescope📡. 
 
-🎵🎛Trying to create some music in **SonicPI**.
+🎵Trying to create some music in **SonicPI**.
 
 📸Also photography is my hobby.
 
-⚙Can use **Linux OS**, even did some automatisation using **Bash** 😍.
+⚙Can use **Linux OS**, even did some automatisation using **Bash** .
 
 ⚙Created some projects on **RaspberryPI**.
 <details><summary>Some programming languages that i used</summary>
@@ -35,7 +35,7 @@
 + Altium Designer
 + Intel Quartus
 + NI Multisim
-+ also had a little experience with AutoCAD😄
++ also had a little experience with AutoCAD
 
 </p>
 </details>
