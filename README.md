@@ -1,7 +1,7 @@
 
 ### Hi, my name is Gleb! 
 ---
-#### Currently i'm studying computer science at National research university of electronic technology(MIET).
+#### Currently i'm studying computer science at National research university "Moscow institute of electronic technology"(MIET).
 
 🖥Right now i'm interested in learning **Rust** and developing my knowledge of **C++**.
 
@@ -33,7 +33,6 @@
   + Genesys
   + EMpro
 + Altium Designer
-+ Intel Quartus
 + NI Multisim
 + also had a little experience with AutoCAD
 
@@ -44,6 +43,7 @@
 <p>
   
 * Visual Studio/VS Code
+* Intel Quartus
 * Code Blocks
 * GNUradio companion(developed some software for Software Defined Radio)
 * LabVIEW
