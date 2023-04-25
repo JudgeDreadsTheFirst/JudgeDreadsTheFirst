@@ -2,16 +2,9 @@
 ### Hi, my name is Gleb! 
 ---
 #### Currently i'm studying computer science at National research university "Moscow institute of electronic technology"(MIET).
-
-🖥Right now i'm interested in learning **Rust** and developing my knowledge of **C++**.
-
-💾Also trying to learn **HDL** and **Assembly** language to try some things on my **CPLD** board.
+#### I also have a bachelors degree in radioengineering that i got in the same university.
 
 🔭Interested in astronomy, dreaming about creating my own radiotelescope📡. 
-
-🎵Trying to create some music in **SonicPI**.
-
-📸Also photography is my hobby.
 
 ⚙Can use **Linux OS**, even did some automatisation using **Bash** .
 
