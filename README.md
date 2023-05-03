@@ -4,7 +4,6 @@
 #### Currently i'm studying computer science at National research university "Moscow institute of electronic technology"(MIET).
 #### I also have a bachelors degree in radioengineering that i got in the same university.
 
-🔭Interested in astronomy, dreaming about creating my own radiotelescope📡. 
 
 ⚙Can use **Linux OS**, even did some automatisation using **Bash** .
 
