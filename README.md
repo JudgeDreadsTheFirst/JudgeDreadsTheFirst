@@ -1,16 +1,17 @@
 
 ### Hi, my name is Gleb! 
 ---
-#### Currently i'm studying computer science at National research university "Moscow institute of electronic technology"(MIET).
+#### Got my masters degree at computer science in National research university "Moscow institute of electronic technology"(MIET).
 #### I also have a bachelors degree in radioengineering that i got in the same university.
 
 
-⚙Can use **Linux OS**, even did some automatisation using **Bash** .
+Now I work with test automation in radio technic equipment using python, and embedded devices with C. 
 
 ⚙Created some projects on **RaspberryPI**.
 <details><summary>Some programming languages that i used</summary>
 <p>
   
+- C
 - C++
 - Python [^1]
   
